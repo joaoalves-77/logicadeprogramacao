@@ -14,4 +14,4 @@ while numero_aleatorio != palpite_jogador:
 
     palpite_jogador = int(input('digite um inteiro de 1 a 10'))
     
-    print(f"acertou em {numero_tentativas} tentativas")
+print(f"acertou em {numero_tentativas} tentativas")
